@@ -1,0 +1,2 @@
+n_markets,mean_excess_return_pct,median_excess_return_pct,win_rate,p_value_one_sided,ci_95_lower_pct,ci_95_upper_pct
+10,1.2118920014437498,-0.0007351074806261071,0.5,0.25301655582837795,-1.368029030043239,4.946728657977222

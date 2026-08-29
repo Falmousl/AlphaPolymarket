@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+# Reconstructed source data is large and reproducible from the pull scripts.
+data/raw_orderbooks/
